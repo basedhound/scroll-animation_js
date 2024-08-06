@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://scroll-animation-fv.netlify.app/" target="_blank">
-      <img src="design/preview.webp" alt="Project Banner">
+      <img src="design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Scroll Animation - JS</h3>
 </div>
